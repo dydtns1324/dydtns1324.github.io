@@ -121,7 +121,7 @@ h5 {
   padding: 10px;
   width: 100%;
   font-weight: 400;
-  min-width: 950px;
+ 
 }
 
 .left-box {
@@ -180,20 +180,20 @@ h5 {
 
   .main-boxes {
     flex-direction: column;
-    align-items: flex-start;
+    
     
 
   }
   .center-box {
-    width: 45%;
+    width: 100%;
   }
 
   .left-box {
-    width: 45%;
+    width: 100%;
   }
 
   .right-box {
-    width: 45%;
+    width: 100%;
   }
   
 }
